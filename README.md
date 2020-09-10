@@ -3,8 +3,8 @@
 
 **My skills 💻:**
 - Web Back-end developper from Algeria 	:algeria: 
-- Code with Js/Ts and PHP
-- Deno🦕/Node JS développer 
+- I Code with Js/Ts and PHP
+- I am Deno🦕/Node JS developer
 
 **What I do**
 - 📰  Self-learning to develop my programming skills
