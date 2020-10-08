@@ -20,4 +20,3 @@
 ### Some statistics:
 
 ![GitHub metrics](https://raw.githubusercontent.com/moncefplastin07/moncefplastin07/master/github-metrics.svg)
-![Most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moncefplastin07&layout=compact)
