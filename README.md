@@ -19,5 +19,5 @@
 
 ### Some statistics:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=moncefplastin07&show_icons=true)
+![GitHub metrics](https://raw.githubusercontent.com/moncefplastin07/moncefplastin07/master/github-metrics.svg)
 ![Most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moncefplastin07&layout=compact)
