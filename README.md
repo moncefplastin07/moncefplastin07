@@ -1,5 +1,4 @@
 ## Hi there !, I am Moncef Gaha (a Bug 🐞)
-[![HitCount](http://hits.dwyl.com/moncefplastin07/moncefplastin07.svg)](http://hits.dwyl.com/moncefplastin07/moncefplastin07)
 
 **My skills 💻:**
 - Web Back-end developper from Algeria 	:algeria: 
